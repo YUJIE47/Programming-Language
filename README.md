@@ -4,7 +4,7 @@
 - It should be capable of checking for syntax errors, including lexical, syntactical, and semantic errors.
 
 # Simple Diagram
-![image](https://github.com/user-attachments/assets/4e727334-83c7-4c24-bf97-47ad1c21dc2e =50%x)
+![image](https://github.com/user-attachments/assets/4e727334-83c7-4c24-bf97-47ad1c21dc2e)
 
 
 # Interactive Interface Output Result Diagram
